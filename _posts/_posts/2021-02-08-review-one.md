@@ -18,7 +18,7 @@
 
 This project was created on GitHub using technology such as *Mapbox*, *Leaflet*, and *Open Street Map Nominatim*.   *Mapbox* is used for mapping tiles as well as routing directions.  *Leaflet* allows for the interactive map UI.  These tools work seamlessly to provide the smooth, interactive mapping experience within the project.  NYPL labs extracted data (via OCR) from *The Negro Motorist Green Book:1947*, and then used Scribe framework to correct and normalize it.  Data was also extracted from *The Negro Travelers’ Green Book: Spring 1956*. 
 
-### *Findings*:
+### *Findings*
 
 The home page is visually pleasing and informative right off the bat.  It is simple yet effective in its visual elements.  The bright text is easy to read and stands out while the images do a good job of making the page less wordy.  The images also feature captions that help people to understand what they are.  The Green Book is immediately defined on the front page.  This is helpful to users who might not be familiar with what it is. 
 
