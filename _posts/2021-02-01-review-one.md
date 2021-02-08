@@ -1,12 +1,12 @@
-# Review Blog
+# Review One 
 
 ## *Project*: Navigating The Green Book
 
-## *Project Directors*: Paul Beaudoin, Brian Foo, Josh Hardo, and Matt Miller  
+### *Project Directors*: Paul Beaudoin, Brian Foo, Josh Hardo, and Matt Miller  
 
-## *Project URL*: [http://publicdomain.nypl.org/greenbook-map/](http://publicdomain.nypl.org/greenbook-map/)
+### *Project URL*: [http://publicdomain.nypl.org/greenbook-map/](http://publicdomain.nypl.org/greenbook-map/)
 
-## *Reviewed By*: Amanda Ballou
+### *Reviewed By*: Amanda Ballou
 
 ![Picture of Navigating the Green Book Homepage](https://raw.githubusercontent.com/amandaballou/Amanda-Ballou/main/images/GreenBook%20Cover%20Blog.PNG)
 
