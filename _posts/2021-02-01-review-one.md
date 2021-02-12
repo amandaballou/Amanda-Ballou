@@ -26,7 +26,7 @@ The two functions of the project are front and center making the page easy to na
 
 The **“View Map”** button leads to the overall map.  The map has a little box that has a description of The *Green Book* and where and what data was extracted.  Also within this box, the user can navigate back to the **Home Page** or **Map a Trip**.  This feature makes the site easy to navigate.  
 
-The user can look at two different maps; one is from 1947, while the other is from 1956.  This feature allows people to see differences by time period.  In cluster view, there are different bubbles with numbers.  The map is interactive, and the user can click on the different bubbles zooming into different locations.  Different symbols are used to mark different types of locations: food, lodging, and even liquor.  While the symbols are clear enough, the site could benefit from an overall legend.  I like how the different locations have pictures from the *Green Book* attached as well as the actual name.  The map also features a Heatmap view, which is not as clear.
+The user can look at two different maps; one is from 1947, while the other is from 1956.  This feature allows people to see differences by time period.  In cluster view, there are different bubbles with numbers.  The map is interactive, and the user can click on the different bubbles zooming into different locations.  Different symbols are used to mark different types of locations: food, lodging, and even liquor.  While the symbols are clear enough, the site could benefit from a map legend.  I like how the different locations have pictures from the *Green Book* attached as well as the actual name.  The map also features a Heatmap view, which is not as clear.
 
 ![Picture of Overall Map with clusters](https://raw.githubusercontent.com/amandaballou/Amanda-Ballou/main/images/Map%20GreenBook.PNG) 
 
@@ -36,7 +36,7 @@ The **“Map a Trip”** button allows users to map their own trip and see the l
 
 ![Picture of the actual Map when mapping a trip](https://raw.githubusercontent.com/amandaballou/Amanda-Ballou/main/images/Map%20w.%20Path%20GreenBook.PNG) 
 
-The map is not as mobile-friendly.  While users can still access the project on their mobile device, the design elements do not load correctly.  Especially on the map, it is much harder to use.  The description box on the map is very large, and it does not/cannot go away.  This box obstructs a large portion of the map.  When mapping a rip, the sidebar gets squished, therefore cutting off addresses.
+The map is not as mobile-friendly.  While users can still access the project on their mobile device, the design elements do not load correctly.  Especially on the map, it is much harder to use.  The description box obstructs a large portion of the map.  When mapping a trip, the sidebar gets squished, therefore cutting off addresses.
 
 ![Picture of the map via mobile device with squished dimensions](https://raw.githubusercontent.com/amandaballou/Amanda-Ballou/main/images/Mobile%201%20Green%20Book%20Blog.png) 
 
