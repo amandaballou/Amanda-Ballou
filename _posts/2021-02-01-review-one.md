@@ -16,7 +16,7 @@
 
 ### *Design*
 
-This project was created on GitHub using technology such as *Mapbox*, *Leaflet*, and *Open Street Map Nominatim*.   *Mapbox* is used for mapping tiles as well as routing directions.  *Leaflet* allows for the interactive map UI.  These tools work seamlessly to provide the smooth, interactive mapping experience within the project.  NYPL labs extracted data (via OCR) from *The Negro Motorist Green Book:1947*, and then used Scribe framework to correct and normalize it.  Data was also extracted from *The Negro Travelers’ Green Book: Spring 1956*. 
+This project was created on GitHub using technology such as *Mapbox*, *Leaflet*, and *Open Street Map Nominatim*.   *Mapbox* is used for mapping tiles as well as routing directions.  *Leaflet* allows for the interactive map UI.  These tools work to provide the smooth, interactive mapping experience within the project.  NYPL labs extracted data (via OCR) from *The Negro Motorist Green Book:1947*, and then used Scribe framework to correct and normalize it.  Data was also extracted from *The Negro Travelers’ Green Book: Spring 1956*. 
 
 ### *Findings*
 
