@@ -28,7 +28,7 @@ The images were taken from the Imperial War Museum, while the memories were take
 
 The site opens to the map.  The map is easy to navigate.  By clicking the question mark symbol, users are able to view a map key that shows the types of bombs that dropped.  The map also features an information symbol that shows the purpose of the project as well as a how-to guide to using the map.  This feature is beneficial for people who may not be as technologically savvy to understand the site.  
 
-![Picture of How to Use Map Box](https://github.com/amandaballou/Amanda-Ballou/blob/main/images/BombSite%20How%20to%20Use%20Map.PNG) 
+![Picture of How to Use Map Box](https://raw.githubusercontent.com/amandaballou/Amanda-Ballou/main/images/BombSite%20How%20to%20Use%20Map.PNG) 
 
 The map can be changed by clicking on the layers button next to the question mark.  Users can look at the map in satellite or street map view.  They can also change the map to look like a 1940s version.  This is a cool feature since it shows what an actual map during the time looks like, while also showing bomb sites.  
 
