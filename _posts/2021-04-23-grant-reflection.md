@@ -3,7 +3,7 @@
 by Amanda Ballou
 
 ### *Introduction* 
-My proposed project, *Mapping Power of the Dog*, is based on the novel of the same name minus “Mapping,” written by Don Winslow.  This book is based on three decades of the US War on Drugs, which was a campaign led by the US federal government with the aim of reducing the illegal drug trade in the US.  Winslow shows this war using a massive character list and allusions to actual historical events.  My project will map the characters’ pathways as well as the historical events.  It will also provide necessary context for the War on Drugs.
+My proposed project, *Mapping Power of the Dog*, is based on the novel, *The Power of the Dog*, written by Don Winslow.  This book is based on three decades of the US War on Drugs, which was a campaign led by the US federal government with the aim of reducing the illegal drug trade in the US.  Winslow shows this war using a massive character list and allusions to actual historical events.  My project will map the characters’ pathways as well as the historical events.  It will also provide necessary context for the War on Drugs.
 
 ![Picture of the cover of power of the dog book](https://raw.githubusercontent.com/amandaballou/Amanda-Ballou/main/images/Power%20of%20the%20Dog%20Book%20Cover.jpg)
 
